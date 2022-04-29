@@ -1,6 +1,3 @@
-Hi 👋 My name is Pedro Henrique Marim Cavelani
-==============================================
-
 Desenvolvedor Frontend
 ----------------------
 
