@@ -36,4 +36,4 @@ Desenvolvedor Frontend Jr
 
 ### Badges
 
-<a href="http://www.github.com/trilp123"><img src="https://github-readme-stats.vercel.app/api?username=trilp123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="trilp123's GitHub stats" /></a>
+<a href="http://www.github.com/pedrohmarim"><img src="https://github-readme-stats.vercel.app/api?username=pedrohmarim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pedrohmarim's GitHub stats" /></a>
