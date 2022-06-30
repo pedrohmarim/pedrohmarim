@@ -1,4 +1,4 @@
-Desenvolvedor Frontend Jr
+Desenvolvedor FullStack Jr
 ----------------------
 
 * 🌍 Araras - SP
