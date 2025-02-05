@@ -1,4 +1,4 @@
-Desenvolvedor FullStack Jr
+Desenvolvedor FullStack Pleno
 ----------------------
 
 * 🌍 Araras - SP
